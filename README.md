@@ -1,6 +1,5 @@
 Hola, un gusto saludarte, esto es SABIA, te dejo algunas instrucciones para poder visualizar mejor nuestro trabajo desde tu entorno.
-```bash
-cat > README.md << 'EOF'
+
 # 📋 Instrucciones para Colaboradores
 
 Bienvenido al proyecto **SABIA**. Sigue estos pasos para configurar tu entorno de desarrollo:
@@ -111,17 +110,5 @@ git push origin main
 Si tienes dudas o problemas, no dudes en abrir un **issue** en el repositorio o contactar al equipo.
 
 ---
-
-¡Gracias por contribuir al proyecto! 🎉
-EOF
-```
-
-Después de pegarlo, haz:
-
-```bash
-git add README.md
-git commit -m "Actualizado README con instrucciones para colaboradores"
-git push origin main
-```
 
 Gracias por visitarnos, es el proyecto del futuro.
